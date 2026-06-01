@@ -1,0 +1,6 @@
+task_id,task,status,priority
+1,Build API Integration,completed,high
+2,Create Dashboard,in_progress,high
+3,Write Documentation,pending,medium
+4,Deploy Application,completed,high
+5,Perform Testing,pending,medium
